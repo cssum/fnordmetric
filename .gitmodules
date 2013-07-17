@@ -1,0 +1,9 @@
+[submodule "fnordmetric-ui"]
+	path = fnordmetric-ui
+	url = git@github.com:cssum/fnordmetric-ui.git
+[submodule "fnordmetric-enterprise"]
+	path = fnordmetric-enterprise
+	url = git@github.com:cssum/fnordmetric-enterprise.git
+[submodule "fnordmetric-core"]
+	path = fnordmetric-core
+	url = git@github.com:cssum/fnordmetric-core.git
