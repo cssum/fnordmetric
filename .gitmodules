@@ -1,0 +1,3 @@
+[submodule "fnordmetric-ui"]
+	path = fnordmetric-ui
+	url = git@github.com:cssum/fnordmetric-ui.git
